@@ -14,7 +14,7 @@ BEGIN
   BEGIN
     BLOCK "080904b0"
     BEGIN
-      VALUE "CompanyName", "shrieeiee"
+      VALUE "CompanyName", "somethingthatdoesntdoxme"
 #ifdef LP_TENORI
       VALUE "FileDescription", "LP-DNB lp-tenori: Tenori-on style sequencer for Novation Launchpad Mini"
 #else
@@ -26,7 +26,7 @@ BEGIN
 #else
       VALUE "InternalName", "LP-DNB"
 #endif
-      VALUE "LegalCopyright", "Copyright (c) 2026 shrieeiee, MIT licence. Uses Dear ImGui (MIT), RtMidi (MIT), miniaudio (MIT-0 / public domain), Nunito font (SIL OFL 1.1)."
+      VALUE "LegalCopyright", "Copyright (c) 2026 somethingthatdoesntdoxme, MIT licence. Uses Dear ImGui (MIT), RtMidi (MIT), miniaudio (MIT-0 / public domain), Nunito font (SIL OFL 1.1)."
 #ifdef LP_TENORI
       VALUE "OriginalFilename", "lp-tenori.exe"
 #else

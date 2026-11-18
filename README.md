@@ -41,7 +41,7 @@ Launchpad remaps itself: a drum kit, a bass in the style's key, chord stabs, and
 
 ## Getting it
 
-**Windows**: download `LP-DNB-windows.zip` from the [latest release](https://github.com/shrieeiee/LP-DNB/releases/latest),
+**Windows**: download `LP-DNB-windows.zip` from the [latest release](https://github.com/somethingthatdoesntdoxme/LP-DNB/releases/latest),
 unzip it anywhere and double-click `lp-dnb.exe` (or `lp-tenori.exe`). Nothing to install. The programs aren't
 signed, so the first time Windows may say "Windows protected your PC": click **More info**, then **Run anyway**.
 
@@ -454,7 +454,7 @@ pat("Two-step", {"x.........x.....",   // drums: x hit  X accent  o ghost  r 2-h
 
 ## Credits and licences
 
-LP-DNB is made by [shrieeiee](https://github.com/shrieeiee), written with Claude (Anthropic), and released
+LP-DNB is made by [somethingthatdoesntdoxme](https://github.com/somethingthatdoesntdoxme), written with Claude (Anthropic), and released
 under the [MIT licence](LICENSE): use it, change it and share it, keeping the copyright notice.
 
 It's built on these, each under its own licence (full texts in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt),

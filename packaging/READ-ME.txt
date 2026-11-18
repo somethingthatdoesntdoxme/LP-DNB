@@ -13,8 +13,8 @@ the programs aren't signed: click "More info", then "Run anyway".
 If a window ever stops responding, wait 10 seconds, then look in
   %APPDATA%\LP-DNB\
 for lp-tenori-freeze-log.txt or lp-dnb-freeze-log.txt and attach it to
-an issue at github.com/shrieeiee/LP-DNB/issues.
+an issue at github.com/somethingthatdoesntdoxme/LP-DNB/issues.
 
-Built from github.com/shrieeiee/LP-DNB (commit COMMIT).
+Built from github.com/somethingthatdoesntdoxme/LP-DNB (commit COMMIT).
 LP-DNB is MIT licensed (LICENSE). Licences of the libraries and font
 it uses: THIRD-PARTY-NOTICES.txt

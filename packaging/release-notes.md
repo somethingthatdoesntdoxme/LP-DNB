@@ -13,7 +13,7 @@ A Tenori-on style sequencer for the Launchpad Mini, on LP-DNB's sound engine.
 - **Windows window**: clickable on-screen Launchpad, layer cards, a big editor for every mode, instrument picker, effects, mixer and devices
 - Saves automatically, and leaves lp-dnb's own patterns and settings alone
 
-![lp-tenori](https://raw.githubusercontent.com/shrieeiee/LP-DNB/main/docs/lp-tenori.png)
+![lp-tenori](https://raw.githubusercontent.com/somethingthatdoesntdoxme/LP-DNB/main/docs/lp-tenori.png)
 
 ## Also in this release
 - Launchpad lights are sent from their own thread, so a slow Launchpad driver can no longer freeze the window

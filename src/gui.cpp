@@ -1688,12 +1688,12 @@ void drawAbout(App& app, GuiState& gs) {
     ImGui::TextWrapped("%s", what);
     ImGui::TextColored(kHint, "%s", sister);
     ImGui::Spacing();
-    ImGui::TextWrapped("Made by shrieeiee, written with Claude (Anthropic). MIT licence.");
-    linkText("github.com/shrieeiee/LP-DNB", "https://github.com/shrieeiee/LP-DNB");
+    ImGui::TextWrapped("Made by somethingthatdoesntdoxme, written with Claude (Anthropic). MIT licence.");
+    linkText("github.com/somethingthatdoesntdoxme/LP-DNB", "https://github.com/somethingthatdoesntdoxme/LP-DNB");
     ImGui::SameLine(0, 18 * s);
-    linkText("Download the latest version", "https://github.com/shrieeiee/LP-DNB/releases/latest");
+    linkText("Download the latest version", "https://github.com/somethingthatdoesntdoxme/LP-DNB/releases/latest");
     ImGui::SameLine(0, 18 * s);
-    linkText("Report a problem", "https://github.com/shrieeiee/LP-DNB/issues");
+    linkText("Report a problem", "https://github.com/somethingthatdoesntdoxme/LP-DNB/issues");
     ImGui::Spacing();
     ImGui::TextColored(kHint, "Not made by or affiliated with Novation. Launchpad is a trademark of Focusrite Audio "
                               "Engineering Ltd.");

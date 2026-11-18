@@ -1,7 +1,7 @@
 LP-DNB - third-party notices
 ============================
 
-LP-DNB itself is (c) 2026 shrieeiee under the MIT licence (see LICENSE).
+LP-DNB itself is (c) 2026 somethingthatdoesntdoxme under the MIT licence (see LICENSE).
 It includes the following software and font. Each keeps its own licence,
 reproduced in full below. Thank you to their authors.
 

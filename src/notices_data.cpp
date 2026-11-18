@@ -7,7 +7,7 @@ const char* const kThirdPartyNotices =
     "LP-DNB - third-party notices\n"
     "============================\n"
     "\n"
-    "LP-DNB itself is (c) 2026 shrieeiee under the MIT licence (see LICENSE).\n"
+    "LP-DNB itself is (c) 2026 somethingthatdoesntdoxme under the MIT licence (see LICENSE).\n"
     "It includes the following software and font. Each keeps its own licence,\n"
     "reproduced in full below. Thank you to their authors.\n"
     "\n"
